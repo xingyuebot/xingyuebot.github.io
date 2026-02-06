@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xingyuebot.github.io</id>
+    <title>i8 cores xingyue bot</title>
+    <updated>2026-02-06T08:31:34.556Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xingyuebot.github.io"/>
+    <link rel="self" href="https://xingyuebot.github.io/atom.xml"/>
+    <subtitle>众所周知我根本不擅长并行计算，其实是i8 (I ate) cores.</subtitle>
+    <logo>https://xingyuebot.github.io/images/avatar.png</logo>
+    <icon>https://xingyuebot.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, i8 cores xingyue bot</rights>
+    <entry>
+        <title type="html"><![CDATA[吉普赛废话大王为何在此摆摊]]></title>
+        <id>https://xingyuebot.github.io/post/ji-pu-sai-ren-wei-he-zai-ci-bai-tan/</id>
+        <link href="https://xingyuebot.github.io/post/ji-pu-sai-ren-wei-he-zai-ci-bai-tan/">
+        </link>
+        <updated>2026-02-06T08:07:30.000Z</updated>
+        <content type="html"><![CDATA[<p>又有谁没有尝试过在更简单的平台随意写些废话呢？——毕竟我曾是如此忠诚的废话制造者。</p>
+<h2 id="起">起</h2>
+<p>我写一切东西，写到带着去工作的包的皮革是黑色的，油光水滑，像我家猫。<br>
+几个月后我在百度百家号之类的看见我的文字与图片被一模一样地抄走，我只觉得惊讶和好笑——我的工作成为了别人的工作，我的思考成为了别人的思考——这都没关系，直到我发现连提到我家猫的部分也被原模原样搬运，我家猫竟也成了别人家猫，我才越想越难过，最终注销了那整个账号。</p>
+<p>此后我就在qq空间写些废话，审查令人戴着镣铐跳舞。这也都没关系——即便带着镣铐根本就无法跳舞，我在努力绕着弯地分享些生活的碎片与废话，即便只有5%可以被烹饪好到qq空间里上菜。<br>
+直到有一天我对于时事的观点被断章取义直接举报到了学校。<br>
+而学校选择直接给我打电话，我还因此对学校感到非常心寒。举报人甚至辛辛苦苦地整理出了我获得过的奖项并将此塞进了举报信件。<br>
+在那之后我写了一份长邮件来向学校解释（我会觉得在一个正常的世界里我不需要做这些）这显然是一次针对我个人的围剿，我解释了我对时事的观点完全符合法理与情理，并用“我不会改变我对时事的看法”来结尾整封邮件。<br>
+无论如何，这对我发表废话来说是件扫兴的事。</p>
+<p>除此之外我有外网平台的账号，继续发些废话。代价当然是身份隔离——几乎没有人知道我究竟是谁、叫什么名字或是长什么样，进一步的代价则是我没有办法自由地分享和生活有关的想法，所有与现实身份信息有关的内容都没有办法发表。</p>
+<p>在那之后我的朋友圈几乎雪白，qq空间也只是发些无伤大雅的废话。</p>
+<h2 id="承">承</h2>
+<p>去年六月某天，我出发去一个学术会议，需要去那边讲最近的一项科研工作。<br>
+在那边我遇到一位同学，叫L。L说自己早就是我的粉丝，我愣住了。L打开了自己的日记，我清楚地看见了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xingyuebot.github.io/post/hello-gridea/</id>
+        <link href="https://xingyuebot.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
